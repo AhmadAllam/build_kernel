@@ -59,5 +59,5 @@ some important file to build nethunter kernel in alioth device to run with lates
 
 ## Authors
 * dev. AhmadAllam
-    * my account. [telegram](https://t.me/echo_Allam)
+    - Telegram: [@echo_tester](https://t.me/echo_tester)
     * don't forget Palestine❤️
